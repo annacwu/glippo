@@ -13,7 +13,7 @@ int main() {
 
             ClearBackground(RAYWHITE);
 
-            EndDrawing();
+        EndDrawing();
     }
 
     CloseWindow();
